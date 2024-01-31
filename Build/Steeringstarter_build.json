@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SteeringStarterProject",
+"productVersion": "0.1",
+"dataUrl": "Steeringstarter_build.data.unityweb",
+"wasmCodeUrl": "Steeringstarter_build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Steeringstarter_build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.5f1"
+}
